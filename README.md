@@ -14,7 +14,7 @@ learned over the sixteen week course.
 
 The narrative of this pygame is a hero's journey. Our hero, portrayed by Wonder Woman, must collect enough dollars to
 represent equal pay for women. 
-Our vilian, portrayed by a public figure who employs misogyny in his personal and professional life, will stop at nothing to prevent
+Our vilian, portrayed by a public figure who demonstrates misogyny (and much worse) in his personal and professional life, will stop at nothing to prevent
 our hero from accomplishing her mission. Help our hero achieve equity!
 
 ## License
